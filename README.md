@@ -7,6 +7,6 @@
 >
 > The points resulting from sorting should not be sorted (in arbitrary order).
 
-![](https://github.com/padawanstask/PadawansTask-9/blob/master/ToGetNeighborsMethod.jpg)
+![](https://github.com/padawanstask/PadawansTask9/blob/master/ToGetNeighborsMethod.jpg)
 
 [TODO](https://github.com/EPM-RD-NETLAB/Developing-modern-web-applications-with-ASP.NET-and-Microsoft-Azure/blob/master/PadawansToDo.md)
