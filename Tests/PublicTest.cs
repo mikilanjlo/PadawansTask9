@@ -41,6 +41,7 @@ namespace PadawansTask9.Tests
                 new Point(2, 2),
                 new Point(5, 2),
                 new Point(3, -2),
+                
             };
         }
 
@@ -48,7 +49,7 @@ namespace PadawansTask9.Tests
         public void GetNeighborsTests(int range, List<Point> expected)
         {
             var point = new Point(3, 3);
-
+            
             var actual = CartesianCoordinates.GetNeighbors(point, range, this.points);
 
             CollectionAssert.AreEquivalent(expected, actual);

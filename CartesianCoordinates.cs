@@ -9,6 +9,8 @@ namespace PadawansTask9
         {
             if (point.Equals(null))
                 throw new ArgumentNullException();
+            if(points == null)
+                throw new ArgumentNullException();
             if (range <= 0)
                 throw new ArgumentException();
             List<Point> result = new List<Point>();
